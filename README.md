@@ -1,1 +1,2 @@
-# Face_Detector
+Face_Detector
+This is just normal face detector 
